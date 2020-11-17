@@ -4,3 +4,7 @@ Welcome to Recipes dictionary.
 
 Tea
 Coffee
+sandwich
+Fries
+
+Thank You !!
