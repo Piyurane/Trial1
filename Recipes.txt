@@ -1,6 +1,6 @@
 
 
-Welcome to Recepies dictionary.
+Welcome to Recipes dictionary.
 
 Tea
 Coffee
